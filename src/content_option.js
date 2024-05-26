@@ -36,15 +36,15 @@ const skills = [{
 },
 {
     name: "Javascript",
-    value: 80,
-},
-{
-    name: "Reactjs",
     value: 70,
 },
 {
+    name: "Reactjs",
+    value: 75,
+},
+{
     name: "Nodejs",
-    value: 60,
+    value: 50,
 },
 {
     name: "Expressjs",
@@ -69,8 +69,8 @@ const services = [
 
 const dataportfolio = [{
     img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    description: "Dev Connections",
+    link: "https://umairnaeem373.github.io/dev-connections-redux/",
 },
 {
     img: "https://picsum.photos/400/800/?grayscale",
@@ -82,52 +82,6 @@ const dataportfolio = [{
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
 ];
 
 const contactConfig = {
@@ -136,9 +90,9 @@ const contactConfig = {
     description: "Please feel free to reach out using the form below. Your message is important to us and we'll respond promptly. Thank you for contacting us!. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_y8ourg9",
+    YOUR_TEMPLATE_ID: "template_blg9uew",
+    YOUR_USER_ID: "y4D7K_xH4zzNDR1gi",
 };
 
 const socialprofils = {
