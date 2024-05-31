@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop web apps",
     },
     description: "Explore my portfolio showcasing diverse projects and skills in web development. Let's create innovative solutions together. Welcome to my site",
-    your_img_url: "https://scontent.flhe9-1.fna.fbcdn.net/v/t39.30808-6/325661324_1835488783453670_8896718358011540436_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeET6Mc7yPAfA2use-ZzY-BbkrT15zdnVG-StPXnN2dUb9J2OkarRaOaPv_jSDNP2jVJycZEQLZbBPYSMR3MSO4h&_nc_ohc=jdRRzrfN--IQ7kNvgEDRe8u&_nc_ht=scontent.flhe9-1.fna&oh=00_AYCnLAwe1ZZOUyiZsgcb0w77O7EDApQZQaCCJJZdNGu7lA&oe=66484D80",
+    your_img_url: "https://www.facebook.com/share/ekoyMUaQwTtirBLg/",
 };
 
 const dataabout = {
